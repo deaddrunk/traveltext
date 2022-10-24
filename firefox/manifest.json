@@ -1,0 +1,27 @@
+{
+    "name": "SimpleMMO TravelText",
+    "description": "Set travel text on SimpleMMO web.",
+    "version": "2.1",
+    "manifest_version": 2,
+
+    "permissions": ["activeTab", "notifications"],
+
+    "background": {
+        "scripts": ["background.js"]
+    },
+
+    "browser_action": {
+        "default_icon": "512.png",
+        "default_title": "SimpleMMO TravelText"
+    },
+
+    "icons": {
+        "512": "512.png"
+    },
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "alexander-david-dev@yandex.com"
+        }
+    }
+}
