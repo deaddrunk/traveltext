@@ -4,6 +4,8 @@
 
 SimpleMMO TravelText is a web browser extension that allows you to edit the travel text and much more displayed while stepping in the web version of SimpleMMO.
 
+<img src="./4c3ce773.gif">
+
 # Installation
 
 ## Before installing
