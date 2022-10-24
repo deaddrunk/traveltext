@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/downloads/alexanderdavidj/traveltext/total?color=76017a&logo=github&logoColor=dadada&style=for-the-badge">
+<img src="https://img.shields.io/github/downloads/deaddrunk/traveltext/total?color=76017a&logo=github&logoColor=dadada&style=for-the-badge">
 
 # SimpleMMO TravelText
 
